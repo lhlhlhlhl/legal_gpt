@@ -1,4 +1,4 @@
-# DJI-DroneMind 项目设置指南
+# LegalGPT 项目设置指南
 
 ## 项目简介
 
